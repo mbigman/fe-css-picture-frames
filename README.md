@@ -1,4 +1,4 @@
-# Day 2 Lesson 2: CSS Layout and Positioning
+# CSS Layout and Positioning: Picture Wall
 
 ## Motivation (i.e. What is this, and why should you care? )
 
