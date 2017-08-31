@@ -15,7 +15,7 @@ When styling HTML elements, you actually follow a very similar process! Follow t
 
 ## Step 1: Make the Pictures Manageable
 
-First, load the file `family-photos.html` and take a look at the preview. First of all, you'll notice the images are way too large to work with. Let's fix that!.
+First, load the file `star-college.html` and take a look at the preview. First of all, you'll notice the images are way too large to work with. Let's fix that!.
 
 + Make all the images with the `star` class have a smaller `width` like 300px and reload the page to see your changes take effect.
 + Make the photos that have both `star` and `small` classes have a width that's at least three times as small as your large photos (like 100px).
